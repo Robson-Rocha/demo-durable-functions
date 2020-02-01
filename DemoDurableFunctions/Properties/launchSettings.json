@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DemoDurableFunctions": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
